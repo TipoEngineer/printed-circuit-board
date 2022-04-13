@@ -1,1 +1,9 @@
-Command Git
+Command Git:
+1 Команда: git clone
+2 Команда: git status
+1 Команда: git add
+1 Команда: git commit -m
+1 Команда: git push
+1 Команда: git pull
+1 Команда: git add -A
+1 Команда:
